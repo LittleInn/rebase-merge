@@ -6,3 +6,5 @@ commit feature E
 commit remote origin
 commit remote portable
 add inn repo
+commit remote origin(to learn)
+
