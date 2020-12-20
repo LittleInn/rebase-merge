@@ -1,10 +1,1 @@
-commit master A
-commit master B
-commit feature C
-commit feature D
-commit feature E
-commit remote origin
-commit remote portable
-add inn repo
-commit remote origin(to learn)
-
+init repo learn
